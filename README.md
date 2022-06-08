@@ -1,9 +1,9 @@
 # Lending-Club-Case-Study
 
-Project Brief
+Project Brief: 
 This is a concept project where a real business problems is solved using EDA. In this project, apart from applying the different techniques of EDA, a basic understanding is elaborated of risk analytics in banking and financial services and how data is used to minimise the risk of losing money while lending to customers.
 
-Business Understanding
+Business Understanding: 
 You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
 If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
@@ -14,7 +14,7 @@ The data given contains the information about past loan applicants and whether t
 
 In this project, i have use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
-Business Objectives
+Business Objectives: 
 This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
 
 If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
